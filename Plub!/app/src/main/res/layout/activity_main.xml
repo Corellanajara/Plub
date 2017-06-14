@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimaryDark"
+    tools:context="kingdomhapps.ploob.MainActivity">
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="139dp"
+        android:layout_height="101dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Plub!"
+        android:textColor="@android:color/white"
+        android:textSize="55sp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="111dp"
+        tools:layout_editor_absoluteY="6dp" />
+
+    <EditText
+        android:id="@+id/editText2"
+        android:layout_width="281dp"
+        android:layout_height="69dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Te damos la bienvenida"
+        android:textAlignment="center"
+        android:textColor="@android:color/white"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="40dp"
+        tools:layout_editor_absoluteY="179dp" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="172dp"
+        android:layout_height="52dp"
+        android:background="@color/lala"
+        android:elevation="24dp"
+        android:text="Iniciar Sesion"
+        android:textSize="18sp"
+        tools:layout_editor_absoluteX="94dp"
+        tools:layout_editor_absoluteY="359dp" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="170dp"
+        android:layout_height="51dp"
+        android:elevation="24dp"
+        android:text="Crear Cuenta"
+        tools:layout_editor_absoluteY="424dp"
+        tools:layout_editor_absoluteX="95dp" />
+
+</android.support.constraint.ConstraintLayout>

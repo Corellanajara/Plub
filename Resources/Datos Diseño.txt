@@ -1,0 +1,9 @@
+Colores
+
+Fondo Naranjo: #f3ba11
+Boton Naranjo: #ff5521
+ Color Blanco: #ffffff
+Boton Facbook: #3a5799
+
+Fuente Botones: Arial //Bold o como quede mejor
+Fuente Plub: Aller

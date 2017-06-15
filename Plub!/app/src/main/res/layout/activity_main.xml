@@ -36,22 +36,23 @@
 
     <Button
         android:id="@+id/button2"
-        android:layout_width="172dp"
-        android:layout_height="52dp"
-        android:background="@color/lala"
+        android:layout_width="173dp"
+        android:layout_height="47dp"
+        android:background="@drawable/boton"
         android:elevation="24dp"
         android:text="Iniciar Sesion"
         android:textSize="18sp"
         tools:layout_editor_absoluteX="94dp"
-        tools:layout_editor_absoluteY="359dp" />
+        tools:layout_editor_absoluteY="338dp" />
 
     <Button
         android:id="@+id/button3"
         android:layout_width="170dp"
-        android:layout_height="51dp"
+        android:layout_height="42dp"
+        android:background="@drawable/boton2"
         android:elevation="24dp"
         android:text="Crear Cuenta"
-        tools:layout_editor_absoluteY="424dp"
-        tools:layout_editor_absoluteX="95dp" />
+        tools:layout_editor_absoluteX="95dp"
+        tools:layout_editor_absoluteY="424dp" />
 
 </android.support.constraint.ConstraintLayout>
